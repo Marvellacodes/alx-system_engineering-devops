@@ -1,1 +1,1 @@
-scripts that shows the different command use in directory
+script that prints the absolute path name of the current working directory
