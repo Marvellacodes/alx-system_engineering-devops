@@ -1,2 +1,2 @@
-#!/bin/bas
-echo "$((20$BINARY))"
+#!/bin/bash
+echo "$((#$BINARY))"
